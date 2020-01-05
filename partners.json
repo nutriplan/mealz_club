@@ -3,12 +3,18 @@
     "title": "Meal Kit Company",
     "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e00a4f610bfa706c49fb2f4_adult-cutting-daylight-facial-expression-1153369.jpg",
     "asset_url": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e00a4f610bfa706c49fb2f4_adult-cutting-daylight-facial-expression-1153369.jpg",
-    "url": "mealkit.com"
+    "url": "https://mealkit.com"
   },
-  "https://wholefoods.com": {
+  "https://wholefoodsmarket.com": {
     "title": "Whole Foods Market",
     "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5dfdf0d5c3faab62eaab0146_download.jpeg",
     "asset_url": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5dfdf0d8e65e0637c3cdc1a8_maxresdefault.jpg",
     "url": "wholefoods.com"
+  },
+  "https://degustabox.com/": {
+    "title": "Degusta Box",
+    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e1219d002581257692c64f9_degusto-gb-box.png",
+    "asset_url": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e1219d002581257692c64f9_degusto-gb-box.png",
+    "url": "https://club.mealz.com/partner/degusta-box"
   }
 }
