@@ -1,52 +1,14 @@
 {
-  "Meal Kit Company": {
-    "Slug": "meal-kit-company",
-    "Collection ID": "5dfb794db0741814ce4bca8d",
-    "Item ID": "5e00a53ddcc8adcf8371feba",
-    "Created On": "Mon Dec 23 2019 11:30:05 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Fri Dec 27 2019 15:16:01 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Fri Dec 27 2019 15:26:03 GMT+0000 (Coordinated Universal Time)",
-    "Short Description": "",
-    "Thumbnail": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e00a4f610bfa706c49fb2f4_adult-cutting-daylight-facial-expression-1153369.jpg",
-    "Full Size Image": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e00a4f610bfa706c49fb2f4_adult-cutting-daylight-facial-expression-1153369.jpg",
-    "Offer Details": "<p><strong>Meal Kit Company</strong></p><p>We are a premium provider of Meal Kits in the UK. </p><p><strong>How can we help you eat healthier?</strong></p><p>We are preparing our boxes from fresh ingredients and send it directly to your door, making cooking super simple, delicisous and healhty. </p><p>‍</p>",
-    "Category": "meal-kit-companies",
-    "Short benefit description for the card": "",
-    "CLUB OFFER Summary": "10% off your first order",
-    "CLUB OFFER Long Summary for the offer page": "New customers receive 10% off their first order placed online through the Meal KIT company's website.",
-    "PLUS OFFER Short Summary": "",
-    "PLUS OFFER Long Summary": "",
-    "Featured?": "",
-    "Tags": "",
-    "Date": "",
-    "Author": "",
-    "PLUS OFFER Redemption Instructions": "",
-    "CLUB OFFER Redemption Instructions": "",
-    "Partner Site URL": "mealkit.com"
+  "https://mealkit.com": {
+    "title": "Meal Kit Company",
+    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e00a4f610bfa706c49fb2f4_adult-cutting-daylight-facial-expression-1153369.jpg",
+    "asset_url": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e00a4f610bfa706c49fb2f4_adult-cutting-daylight-facial-expression-1153369.jpg",
+    "url": "mealkit.com"
   },
-  "Whole Foods Market": {
-    "Slug": "whole-foods-market",
-    "Collection ID": "5dfb794db0741814ce4bca8d",
-    "Item ID": "5dfdf0e2e5da7710797664aa",
-    "Created On": "Sat Dec 21 2019 10:16:02 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Fri Dec 27 2019 15:15:53 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Fri Dec 27 2019 15:26:03 GMT+0000 (Coordinated Universal Time)",
-    "Short Description": "",
-    "Thumbnail": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5dfdf0d5c3faab62eaab0146_download.jpeg",
-    "Full Size Image": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5dfdf0d8e65e0637c3cdc1a8_maxresdefault.jpg",
-    "Offer Details": "<p><strong>What is Whole Foods Market?<br></strong><br>Living well begins with eating well. That's why we ban hydrogenated fats, high-fructose corn syrup, artificial sweeteners and more than 100 flavours, colours and preservatives commonly found in food. If you want to know what goes into the products you buy, our standards make it easy, because if it doesn't meet the standards, we won't sell it.<br><br><strong>How does it help people to eat better?<br></strong><br>Exquisite mains, delicious sides -- less dishes and more time to spend with the family. <br><br><strong>What’s the benefit for Mealz Club members?<br></strong><br>Mealz Club members receive 10% off at London High Street Kensington Branch. <br></p>",
-    "Category": "grocery-stores",
-    "Short benefit description for the card": "HOT",
-    "CLUB OFFER Summary": "1% off at Kensington Branch",
-    "CLUB OFFER Long Summary for the offer page": "Mealz Club members receive 1% off at the High Street Kensington branch, when they present a valid Mealz Club card.",
-    "PLUS OFFER Short Summary": "20% off at Kensington Branch",
-    "PLUS OFFER Long Summary": "Mealz Club members receive 20% off at the High Street Kensington branch, when they present a valid Mealz Club card.",
-    "Featured?": false,
-    "Tags": "testtag; plus",
-    "Date": "",
-    "Author": "",
-    "PLUS OFFER Redemption Instructions": "<p>Use the following code to redeem this offer:</p><p>‍</p><h3>FHJDKSFKS32324k2jJKFD</h3><p>THIS&nbsp;IS&nbsp;A TEST!</p><p>‍</p><p>Thank you!</p>",
-    "CLUB OFFER Redemption Instructions": "<p>Use the following code to redeem this offer:</p><p>‍</p><h3>FHJDKSFKS32324k2jJKFD</h3><p>THIS&nbsp;IS&nbsp;A TEST!</p><p>‍</p><p>Thank you!</p><p>‍</p>",
-    "Partner Site URL": "wholefoods.com"
+  "https://wholefoods.com": {
+    "title": "Whole Foods Market",
+    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5dfdf0d5c3faab62eaab0146_download.jpeg",
+    "asset_url": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5dfdf0d8e65e0637c3cdc1a8_maxresdefault.jpg",
+    "url": "wholefoods.com"
   }
 }
