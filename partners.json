@@ -1,20 +1,74 @@
 {
-  "https://mealkit.com": {
-    "title": "Meal Kit Company",
-    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e00a4f610bfa706c49fb2f4_adult-cutting-daylight-facial-expression-1153369.jpg",
-    "asset_url": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e00a4f610bfa706c49fb2f4_adult-cutting-daylight-facial-expression-1153369.jpg",
-    "url": "https://mealkit.com"
+  "http://www.foodspring.com/": {
+    "title": "Foodspring",
+    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e1f5494303dbf9b05534d55_180713_fs_shape-multi_desktop__99732.1541687041.png",
+    "items.custom-date": "",
+    "url": "https://club.mealz.com/partner/foodspring"
   },
-  "https://wholefoodsmarket.com": {
-    "title": "Whole Foods Market",
-    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5dfdf0d5c3faab62eaab0146_download.jpeg",
-    "asset_url": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5dfdf0d8e65e0637c3cdc1a8_maxresdefault.jpg",
-    "url": "wholefoods.com"
+  "https://pomora.com/": {
+    "title": "Pomora",
+    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e1c8d803382c3b07dd83958_Pomora_OliveOil_Tins_All_1024.jpg",
+    "items.custom-date": "",
+    "url": "https://club.mealz.com/partner/pomora"
   },
-  "https://degustabox.com/": {
+  "https://teapro.co.uk/": {
+    "title": "Teapro",
+    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e1c7a6d1b8c4799b936c316_48506068261_61ec7502af_b.jpg",
+    "items.custom-date": "",
+    "url": "https://club.mealz.com/partner/teapro"
+  },
+  "https://www.eatleancheese.co.uk/": {
+    "title": "Eat Lean",
+    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e16127da9c1f7862d6c937d_159060840-eatlean-cheese-bundle_1%20(1).jpg",
+    "items.custom-date": "",
+    "url": "https://club.mealz.com/partner/eat-lean"
+  },
+  "https://thinkfoods.co.uk/": {
+    "title": "THINK Press",
+    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e14aeef86dc656b21249a0d_3%20Day%20Detox%20with%20Think%20Press%20-%20Juice%20Cleanse%20review%20-%20Ginger%2C%20Beetroot%2C%20Green%2C%20.jpg",
+    "items.custom-date": "",
+    "url": "https://club.mealz.com/partner/think-press"
+  },
+  "https://www.springgreenlondon.com/": {
+    "title": "Spring Green London",
+    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e14abf3e6d4b00364451c80_My_Post-15.jpg",
+    "items.custom-date": "",
+    "url": "https://club.mealz.com/partner/spring-green-london"
+  },
+  "https://www.presscription.co.uk": {
+    "title": "Presscription",
+    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e14a9e9108335fbb07c52a2_presscription-signature-cleanse.jpg",
+    "items.custom-date": "",
+    "url": "https://club.mealz.com/partner/presscription"
+  },
+  "https://www.honestly-good.co/": {
+    "title": "The Honestly Good Smoothie Company",
+    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e14a6e5720a09d6ab089a0d_smoothie2-.jpg",
+    "items.custom-date": "",
+    "url": "https://club.mealz.com/partner/the-honestly-good-smoothie-company"
+  },
+  "https://www.mindfulchef.com/": {
+    "title": "Mindful Chef",
+    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e14a24c07afaa26ecd096dd_Mindful-Chef_Box-top-down-shot_Salmon-1-777x712.jpg",
+    "items.custom-date": "",
+    "url": "https://club.mealz.com/partner/mindful-chef"
+  },
+  "https://www.loveyourself.co.uk/": {
+    "title": "Love Yourself",
+    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e149fdede6e711ad32d10f8_pack_comp_reducedjpg-1529615488501.jpg",
+    "items.custom-date": "",
+    "url": "https://club.mealz.com/partner/love-yourself"
+  },
+  "https://eatfruit.co.uk/": {
+    "title": "Eat Fruit",
+    "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e13ac75c5e98cb652043695_Seasonal-Angle.jpg",
+    "items.custom-date": "",
+    "url": "https://club.mealz.com/partner/eat-fruit-uk"
+  },
+  "https://www.degustabox.com/": {
     "title": "Degusta Box",
     "photo": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e1219d002581257692c64f9_degusto-gb-box.png",
-    "asset_url": "https://uploads-ssl.webflow.com/5dfb794db0741873114bca87/5e1219d002581257692c64f9_degusto-gb-box.png",
+    "items.custom-date": "",
     "url": "https://club.mealz.com/partner/degusta-box"
   }
 }
